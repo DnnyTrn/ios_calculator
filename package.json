@@ -1,0 +1,15 @@
+{
+	"name": "ios_calculator",
+	"version": "1.0.0",
+	"description": "",
+	"main": "script.js",
+	"scripts": {
+		"test": "echo \"Error: no test specified\" && exit 1"
+	},
+	"keywords": [],
+	"author": "Danny Tran",
+	"license": "ISC",
+	"dependencies": {
+		"parcel-bundler": "^1.12.4"
+	}
+}
