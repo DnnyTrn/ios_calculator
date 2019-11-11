@@ -1,1 +1,1 @@
-ios_calculator
+Basic web calculator with iOS design
