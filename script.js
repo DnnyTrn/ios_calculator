@@ -1,4 +1,4 @@
-import { parse } from "path";
+// import { parse } from "path";
 
 let memory = 0, buffer = '', operation
 const screen = document.querySelector(".screen")
